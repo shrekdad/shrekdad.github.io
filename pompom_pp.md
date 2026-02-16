@@ -2,7 +2,7 @@
 
 **Effective Date: February 16, 2026**
 
-PomPom ("we", "us", or "our") operates the **PomPom** mobile application (the "App"), available on the Apple App Store.
+Wasabi Studio ("we", "us", or "our") operates the **PomPom** mobile application (the "App"), available on the Apple App Store.
 
 We are committed to protecting your privacy. This Privacy Policy explains what information is processed within the App, how it is used, how it is stored, and your rights regarding that information.
 
