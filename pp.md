@@ -1,12 +1,12 @@
-# Privacy Policy for Wasabi
+# Privacy Policy for River
 
 **Effective Date: February 16, 2026**
 
-Wasabi Studio ("we", "us", or "our") operates the **Wasabi** mobile application (the "App"), available on the Apple App Store.
+River Studio ("we", "us", or "our") operates the **River** mobile application (the "App"), available on the Apple App Store.
 
 We are committed to protecting your privacy. This Privacy Policy explains what information is processed within the App, how it is used, how it is stored, and your rights regarding that information.
 
-Wasabi is designed as a **local-only creative tool**. All processing happens entirely on your device. We do not operate servers and we do not collect or receive your personal data.
+River is designed as a **local-only creative tool**. All processing happens entirely on your device. We do not operate servers and we do not collect or receive your personal data.
 
 ---
 
@@ -24,7 +24,7 @@ All data remains on your device and under your control.
 
 ## 2. Photos You Provide
 
-Wasabi allows you to optionally import photos from your device’s photo library to create personalized birthday invitation cards.
+River allows you to optionally import photos from your device’s photo library to create personalized birthday invitation cards.
 
 When you select a photo:
 
@@ -36,7 +36,7 @@ When you select a photo:
 
 ## 3. Facial Landmark Detection (On-Device Only)
 
-To properly position decorative elements (such as hats, party effects, or overlays), Wasabi uses Apple’s **Vision framework** to detect facial landmarks within the selected image.
+To properly position decorative elements (such as hats, party effects, or overlays), River uses Apple’s **Vision framework** to detect facial landmarks within the selected image.
 
 ### What is processed:
 
@@ -79,7 +79,7 @@ The data is not used for:
 
 ## 5. Storage and Retention
 
-Wasabi does not transmit any data off your device.
+River does not transmit any data off your device.
 
 ### Local Storage
 
@@ -126,7 +126,7 @@ Since we do not collect or store data on servers, there is no external account d
 
 ## 8. Children's Privacy
 
-Wasabi is not directed to children under the age of 13 (or the minimum age required in your jurisdiction).
+River is not directed to children under the age of 13 (or the minimum age required in your jurisdiction).
 
 We do not knowingly collect personal information from children. Because all processing occurs locally and no data is transmitted to us, we do not receive or store children's data.
 
@@ -148,4 +148,4 @@ If you have any questions about this Privacy Policy or the App’s privacy pract
 
 ---
 
-By using Wasabi, you acknowledge that you have read and understood this Privacy Policy.
+By using River, you acknowledge that you have read and understood this Privacy Policy.
