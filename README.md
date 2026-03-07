@@ -5,6 +5,9 @@ Shrekdad is licensed under the Apple Standard End User License Agreement (EULA).
 For more information, please visit:
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
+If you have any questions about this app, please contact us at:
+**shrekdad@gmail.com**
+
 # Privacy Policy
 
 **Effective Date: February 1, 2026**
@@ -144,14 +147,6 @@ We do not knowingly collect personal information from children. Because all proc
 We may update this Privacy Policy from time to time to reflect changes in the App or legal requirements. Updates will be posted with a revised **Effective Date**.
 
 We encourage you to review this page periodically.
-
----
-
-## 10. Contact Us
-
-If you have any questions about this Privacy Policy or the App’s privacy practices, please contact us at:
-
-**shrekdad@gmail.com**
 
 ---
 
