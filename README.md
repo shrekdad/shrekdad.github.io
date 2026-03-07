@@ -1,12 +1,13 @@
+# Support
+
+If you have any questions about our apps, please contact us at:
+**shrekdad@gmail.com**
+
 # Terms of Use
 
 Shrekdad is licensed under the Apple Standard End User License Agreement (EULA).
-
 For more information, please visit:
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-If you have any questions about this app, please contact us at:
-**shrekdad@gmail.com**
 
 # Privacy Policy
 
