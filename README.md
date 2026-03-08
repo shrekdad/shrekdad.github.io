@@ -72,10 +72,8 @@ All face-related processing occurs **entirely on your device** using Apple’s s
 ## 4. How We Use Photos and Landmark Data
 
 Imported photos and generated facial landmark data are used only to:
-
-- Position decorative elements correctly on the face  
-- Generate a customized birthday invitation card  
-- Allow you to preview, save, or share the final composite image  
+  
+- Allow you to preview, save, or share the final composite image or video
 
 The data is not used for:
 
