@@ -1,6 +1,6 @@
-# Support
+# Shrekdad Studio
 
-If you have any questions about this app, please contact us at:
+If you have any questions about our apps, please contact us at:
 **shrekdad@gmail.com**
 
 # Terms of Use
