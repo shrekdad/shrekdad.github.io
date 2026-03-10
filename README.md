@@ -1,11 +1,11 @@
 # Support
 
-If you have any questions about our apps, please contact us at:
+If you have any questions about this app, please contact us at:
 **shrekdad@gmail.com**
 
 # Terms of Use
 
-Shrekdad is licensed under the Apple Standard End User License Agreement (EULA).
+This app is licensed under the Apple Standard End User License Agreement (EULA).
 For more information, please visit:
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
@@ -13,11 +13,11 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 **Effective Date: February 1, 2026**
 
-Shrekdad Studio ("we", "us", or "our") operates the **Shrekdad** mobile application (the "App"), available on the Apple App Store.
+Shrekdad Studio ("we", "us", or "our") operates the mobile application (the "App"), available on the Apple App Store.
 
 We are committed to protecting your privacy. This Privacy Policy explains what information is processed within the App, how it is used, how it is stored, and your rights regarding that information.
 
-Shrekdad is designed as a **local-only creative tool**. All processing happens entirely on your device. We do not operate servers and we do not collect or receive your personal data.
+This app is designed as a **local-only creative tool**. All processing happens entirely on your device. We do not operate servers and we do not collect or receive your personal data.
 
 ---
 
@@ -35,7 +35,7 @@ All data remains on your device and under your control.
 
 ## 2. Photos You Provide
 
-Shrekdad allows you to optionally import photos from your device’s photo library to create personalized birthday invitation cards.
+This app allows you to optionally import photos from your device’s photo library to create personalized birthday invitation cards.
 
 When you select a photo:
 
@@ -47,7 +47,7 @@ When you select a photo:
 
 ## 3. Facial Landmark Detection (On-Device Only)
 
-To properly position decorative elements (such as hats, party effects, or overlays), Shrekdad uses Apple’s **Vision framework** to detect facial landmarks within the selected image.
+To properly position decorative elements (such as hats, party effects, or overlays), this app uses Apple’s **Vision framework** to detect facial landmarks within the selected image.
 
 ### What is processed:
 
@@ -88,7 +88,7 @@ The data is not used for:
 
 ## 5. Storage and Retention
 
-Shrekdad does not transmit any data off your device.
+This app does not transmit any data off your device.
 
 ### Local Storage
 
@@ -135,7 +135,7 @@ Since we do not collect or store data on servers, there is no external account d
 
 ## 8. Children's Privacy
 
-Shrekdad is not directed to children under the age of 13 (or the minimum age required in your jurisdiction).
+This app is not directed to children under the age of 13 (or the minimum age required in your jurisdiction).
 
 We do not knowingly collect personal information from children. Because all processing occurs locally and no data is transmitted to us, we do not receive or store children's data.
 
@@ -149,4 +149,4 @@ We encourage you to review this page periodically.
 
 ---
 
-By using Shrekdad, you acknowledge that you have read and understood this Privacy Policy.
+By using this app, you acknowledge that you have read and understood this Privacy Policy.
