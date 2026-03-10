@@ -13,7 +13,7 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 **Effective Date: February 1, 2026**
 
-Shrekdad Studio ("we", "us", or "our") operates the mobile application (the "App"), available on the Apple App Store.
+We operates this mobile application (the "App"), available on the Apple App Store.
 
 We are committed to protecting your privacy. This Privacy Policy explains what information is processed within the App, how it is used, how it is stored, and your rights regarding that information.
 
